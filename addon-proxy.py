@@ -31,7 +31,7 @@ import time
 
 
 _DEFAULT_PORT = 80
-_DEFAULT_REPO = 'https://github.com/WebThingsIO/addon-list'
+_DEFAULT_REPO = 'https://github.com/arybitskiy/addon-list'
 _DEFAULT_BRANCH = 'master'
 
 _BASE_DIR = os.path.realpath(os.path.dirname(__file__))
